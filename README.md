@@ -11,6 +11,6 @@ Check `Brain Tumor MRI.pdf` for a detailed report
 
 ---
 
-- `model1_shap.ipynb` is implementation of shaply explanable deep learning on custom implemention
+- `model1_shap.ipynb` is implementation of shaply explainable deep learning on custom implemention
 - `layer_by_model1.ipynb` is implementation of layer-by-propagation for custom model
    - layer-by-propagation is a technique by which we extract the output of intermediate layers to explain the output of the model
