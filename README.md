@@ -8,6 +8,6 @@
 - `resnet_101_freeze.ipynb` is the code for feature extraction of resnet101 model. **ImageNet** weights were used
 - `resnet_101_allTrain.ipynb` is the code for finetuning of resnet101 model. **ImageNet** weights were used
 
-  ---
+---
 
-  - `model1_shap.ipynb` is implementation of shaply explanable deep learning on custom implemention
+- `model1_shap.ipynb` is implementation of shaply explanable deep learning on custom implemention
