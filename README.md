@@ -1,6 +1,7 @@
 # brain-tumor-classify
 
-[Dataset used](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
+[Dataset used](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)   
+Check `Brain Tumor MRI.pdf` for a detailed report
 
 - `model1.ipynb` is the code for the custom model implemention
 - `vgg19.ipynb` is the code for feature extraction of VGG19 model for the task, **ImageNet** weights were used
